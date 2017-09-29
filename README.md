@@ -1,10 +1,10 @@
 # docker-shadowsocks-go
-build from alpine with [shadowsocks-go](https://github.com/shadowsocks/shadowsocks-go/releases)
+build from busybox with [shadowsocks-go](https://github.com/shadowsocks/shadowsocks-go/releases)
 
 ## open source
 https://github.com/qzm/docker-shadowsocks-go
 
-Compressed Size: only 3 MB
+Compressed Size: only 2 MB
 
 ## docker run
 ```shellscript
