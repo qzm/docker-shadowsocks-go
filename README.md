@@ -1,6 +1,8 @@
 # docker-shadowsocks-go
 build from busybox with [shadowsocks-go](https://github.com/shadowsocks/shadowsocks-go/releases)
 
+[![](http://dockeri.co/image/chiminyau/shadowsocks-go)](https://hub.docker.com/r/chiminyau/shadowsocks-go/)
+
 ## open source
 https://github.com/qzm/docker-shadowsocks-go
 
