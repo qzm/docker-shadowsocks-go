@@ -4,6 +4,8 @@ build from alpine with [shadowsocks-go](https://github.com/shadowsocks/shadowsoc
 ## open source
 https://github.com/qzm/docker-shadowsocks-go
 
+Compressed Size: only 3 MB
+
 ## docker run
 ```shellscript
 docker run -d -p 443:443 \
